@@ -1,0 +1,1109 @@
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="renderer" content="webkit|ie-comp|ie-stand">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
+  <title>2017第二届湖南国际采购车展-V车展</title>
+  <meta name="keywords" content="54个汽车品牌，限量免费车展门票">
+  <meta name="description" content="车展举办地点：湖南国际会展中心（广电中心旁）">
+
+  <link href="http://static.vautoshow.com/vauto/bower_components/h-ui/static/h-ui/css/H-ui.reset.css" rel="stylesheet">
+  <link href="http://static.vautoshow.com/vauto/bower_components/h-ui/lib/Hui-iconfont/1.0.1/iconfont.css" rel="stylesheet">
+  <link href="/styles/h-ui/css/public-5d8c4fb0c5.css" rel="stylesheet">
+  <link href="/themes/vautoSubStation/css/index-7f6fa8f8c7.css" rel="stylesheet">
+
+  <link href="/styles/h-ui/css/sliderandmodal-8bd6da323e.css" rel="stylesheet">
+
+  <script src="//static.vautoshow.com/vauto/bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="//static.vautoshow.com/vauto/bower_components/h-ui/static/h-ui/js/H-ui.js"></script>
+  <script src="//static.vautoshow.com/vauto/bower_components/h-ui/lib/jquery.SuperSlide.2.1.1.js"></script>
+  <script src="//static.vautoshow.com/vauto/bower_components/jquery-placeholder/jquery.placeholder.min.js"></script>
+  <script src="//static.vautoshow.com/vauto/bower_components/h-ui/lib/bootstrap-modal/2.2.4/bootstrap-modalmanager.js"></script>
+  <script src="//static.vautoshow.com/vauto/bower_components/h-ui/lib/bootstrap-modal/2.2.4/bootstrap-modal.js"></script>
+  <script src="//static.vautoshow.com/vauto/bower_components/lazysizes/lazysizes.min.js"></script>
+  <script src="/plugins/car/jquery-b0fb2a6626.car.js"></script>
+  <script src="/themes/vautoSubStation/js/main-53b0da0793.js"></script>
+
+  <!--[if lt IE 9]>
+  <script src="//static.vautoshow.com/vauto/bower_components/h-ui/lib/html5.js"></script>
+  <script src="//static.vautoshow.com/vauto/bower_components/h-ui/lib/respond.min.js"></script>
+  <script src="//static.vautoshow.com/vauto/bower_components/h-ui/lib/PIE-2.0beta1/PIE_IE678.js"></script>
+  <![endif]-->
+  <!--[if IE 6]>
+  <script src="//static.vautoshow.com/vauto/bower_components/h-ui/lib/DD_belatedPNG_0.0.8a-min.js"></script>
+  <script>DD_belatedPNG.fix('*');</script>
+  <![endif]-->
+</head>
+
+<body>
+<input type="hidden" value="576389cbcba7ac3810283bc9" data-domainName="长沙" id="domain_id">
+<input type="hidden" value="576389cbcba7ac3810283bd2" id="www_site_id">
+<input type="hidden" id="baidu_keywords" value="undefined">
+<input type="hidden" id="seo_engine" value="undefined">
+<input type="hidden" id="taobao_keywords" value="undefined">
+<div class="badge-black">
+  <div class="container">
+    <div class="row cl">
+      <div class="col-6-1"></div>
+      <div class="col-6-5">
+        <div class="citylocal f-l">
+          <a href="/" class="cityname">长沙站</a>
+          <a data-toggle="modal" href="#myModal"  class="citymore">
+            <i class="Hui-iconfont f-20">&#xe6c9;</i>
+          </a>
+        </div>
+        <div class="topmenu text-l f-l" id="topMenu">
+          
+            <a href="http://www.vautoshow.com" class="index_main">
+              网站首页
+            </a>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="badge-white menubox">
+  <div class="container">
+    <div class="row cl">
+      <div class="col-6-1">
+        <div class="logos">
+          <a href="http://www.vautoshow.com" title="V车展">
+            <img class="lazyload" data-src="http://static.vautoshow.com/vauto/images/logo-bv.png">
+          </a>
+        </div>
+      </div>
+      <div class="col-6-5">
+        <div class="mainmenu">
+          <ul class="pl-20 f-l">
+            
+                <li><a href="/" class="menu_index_sub" >
+                    长沙首页</a>
+                </li>
+            
+                <li><a href="/recentAutoshow" class="menu_zjcz" >
+                    最近车展</a>
+                </li>
+            
+                <li><a href="/activity/onlineshows" class="menu_wszq" >
+                    活动专区</a>
+                </li>
+            
+                <li><a href="/brand" class="menu_car" >
+                    品牌展区</a>
+                </li>
+            
+                <li><a href="/content/index" class="menu_qczx" >
+                    汽车资讯</a>
+                </li>
+            
+                <li><a href="/reserve" class="menu_yycz" >
+                    购车好选择</a>
+                </li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<link href="/themes/vautoMainStation/css/allAutoshowDetail-7b6495eafa.css" rel="stylesheet">
+<input type="hidden" value="591aadaf35c566df64146fc8" id="special_id">
+
+<style>
+  .bmck{
+    background-color:#0e1146;
+  }
+
+
+</style>
+<!--头部banner-->
+<div class="row cl" style="height: 440px;background: url('http://image.vautoshow.com/special/0c0aae78-dc16-419d-924d-397d14ab69eb.jpg') no-repeat scroll top center">
+  <!-- <img src="[object Object]@380h_1170w_1e_1c)"/>-->
+</div>
+<!--头部banner end-->
+
+<!--报名窗口-->
+<div class="row cl pt-20 pb-20 bmck" >
+  <div class="container">
+    <div class="row cl">
+      <div class="col-7" style="height: 400px;">
+        <div class="mr-20 cl badge-default radius" >
+          <div class="row cl"><div class="col-4">
+              <!--报名动态-->
+              <div class="row cl text-c f-14 mt-30">
+                当前 <span class="f-20 c-primary"><b>
+       <span id="bmjCount">
+          5326
+        </span></b></span> 人成功出票
+              </div>
+              <div class="row cl text-c"><img src="http://image.vautoshow.com/special/acec16c2-1277-4d56-9f45-4bc57c2857f2.jpg"/></div>
+              <div class="row cl pl-5 mt-20">
+                <div class="lh-28 c-666 text-l marquee">
+                  <ul id="holder">
+
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-8 badge-white">
+              <!--报名窗口-->
+              <div class="pd-20 cl">
+                <div class="text-c pt-10 pb-10">
+                <h2 class="f-24 c-primary pb-10"><b>报名获取免费门票(限量)</b></h2>
+                </div>
+
+                <form id="form" class="bmform">
+                  <div class="row cl pb-10">
+                    <div class="col-6">
+                      <div class="pr-10">
+                        <span class="f-12">领票人姓名:</span>
+                      <input type="text" class="input-text size-L radius" id="userName">
+                      </div>
+                    </div>
+                    <div class="col-6"><div class="pr-10">
+                        <span class="f-12">领票人电话:</span>
+                      <input type="text" maxlength="11" class="input-text size-L radius" id="phone">
+                      </div></div>
+                  </div>
+                  <div class="row cl pb-10">
+                    <div class="col-6"><div class="pr-10">
+                      <span class="select-box size-L radius" id="brand"></span>
+                    </div></div>
+                    <div class="col-6"><div class="pr-10">
+                      <span class="select-box size-L radius" id="series"></span>
+                    </div>
+                  </div></div>
+                  <div class="row cl pb-10"><div class="pr-10"> <span class="f-12">门票快递收件地址:</span>
+                   <textarea class="textarea radius" id="address" style="height: 55px"></textarea>
+                    </div></div>
+
+                  <div class="row cl">
+                    <div class="getError" id="getError"></div>
+                    <div class="pr-10 pt-10 pb-10">
+                      <input class="btn btn-primary btn-block size-L radius bmform" type="button" value="立即免费报名" id="post_baoming">
+                    </div>
+                  </div>
+                  <div class="text-c f-14 pt-10">
+                    <i class="Hui-iconfont">&#xe6c7;</i> 任何问题请拨官方客服热线：    400-6655-222
+                  </div>
+
+                </form>
+                <div id="success">
+                  <h4><span>报名成功</span> 请微信扫描下方二维码<br>通过微信查询车展进展及优惠信息</h4>
+                  <img class="lazyload" data-src="http://image.vautoshow.com/special/6f8e19fe-13bc-49fe-929e-5753cc22b5fe.gif"
+                       width="130px">
+                </div>
+                <div id="error"></div></div>
+            </div>
+
+          </div>
+          </div>
+
+
+      </div>
+
+
+      <div class="col-5 radius badge-default" style="height: 400px;">
+        <div class="row cl text-c pt-15">
+          <div class="f-16 pt-10 pb-5">离免费领票活动结束还剩</div>
+          <div class="text-c times interval" style="font-size:0;" data-time="1498874400000">
+        <span
+          class="label radius label-primary date0">00</span>
+            <span class="label radius c-666">天</span>
+            <span
+              class="label radius label-primary date1">00</span>
+            <span class="label radius c-666">时</span>
+            <span
+              class="label radius label-primary date2">00</span>
+            <span class="label radius c-666">分</span>
+            <span
+              class="label radius label-primary date3">00</span>
+            <span class="label radius c-666">秒</span>
+          </div>
+        </div>
+        <div class="pd-20">
+        <div class="badge-success radius pd-15 mt-10 c-white">
+          <div class="f-18">领取个人门票</div>
+          <span class="f-14"> 免费赠票活动6888份个人门票报名即可领取.领完即止.</span>
+        </div>
+
+        <div class="badge-danger radius pd-15 mt-10 c-white">
+          <div class="f-18">领取家庭套票</div>
+          <span class="f-14">免费赠票活动3888份家庭套票报名即可领取,领完即止.</span>
+        </div>
+
+        <div class="badge-warning radius pd-15 mt-10 c-white">
+          <div class="f-18">领取购车代金券</div>
+          <span class="f-14">报名成功!即可领取1000元代金券,车展现场订车即可抵购车款.</span>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--报名窗口 end-->
+
+
+<div class="row cl pt-20">
+  <div class="container">
+    <ul class="row cl" id="fixmenu">
+      <li class="col-2 normal"><a href="#zhjj">展会简介</a></li>
+      <li class="col-2 normal"><a href="#czpp">参展品牌</a></li>
+      <li class="col-2 normal"><a href="#jtzy">车展活动</a></li>
+      <li class="col-2 normal"><a href="#czpl">展会动态</a></li>
+      <li class="col-2 normal"><a href="#jtzy">交通指南</a></li>
+      <li class="col-2 normal"><a href="#czpl" style="border-right: 0px">联系方式</a></li>
+    </ul>
+  </div>
+</div>
+<!--车展介绍-->
+
+<div class="row cl mb-30 mt-30 text-c" id="zhjj">
+  <h1 class="c-primary"><b>V车展 买车好选择</b></h1>
+</div>
+<div class="row cl" style="padding-bottom: 40px">
+  <div class="container cl badge-white">
+    <div class="pd-20">
+      <div class="row cl">
+        <div class="col-7">
+          <div class="mr-30">
+            <p><span style="font-size: 12px;">&nbsp;2017第二届湖南国际采购车展将于7月1-2日在湖南国际会展中心举行，具体地点为长沙金鹰影视文化城，毗邻世界之窗、海底世界等大型游乐休闲场所旁，场馆面积达3万平米.2017第二届湖南国际采购车展为C级车展（影响力为覆盖全湖南省及周边的汽车消费者），预计观展人数达8万人。车展主办机构为“互联网+车展”品牌V车展，在车展中更多注入一些促销的因素，是真正的具有购买力的车展,同时众多知名汽车厂商的大力投入,全互联网媒体报道,门票寄送、观展邀请函寄送、观展路线图寄送、购车代金券寄送、送等软性服务进一步提升了2017第二届湖南国际采购车展在湖南乃至全国的影响力和知名度！</span></p><p><span style="font-size: 12px;">“互联网+车展”品牌V车展，创办于2012年，至今已成功在全国举办地区级车展1000余届，重点分布城市为北京、上海、广州、杭州、苏州、重庆等全国一、二线城市。V车展始终坚持以互联网用户为中心，提供每座城市一年6次的线下车展服务。.2017第二届湖南国际采购车展将于2017年7月1日开展，市面热门车型购车价格优惠成为其主打的亮点之一，预计就优惠幅度这一块，将奉献给网友更多的惊喜.</span></p>
+          </div>
+          <div class="row cl mr-30">
+            <div class="col-4">
+              <div class="pd-10">
+                <img width="190" height="130"
+                     src="http://image.vautoshow.com/special/94802e16-acb8-4aa1-bd76-be6884f93e80.jpg"/>
+              </div>
+            </div>
+            <div class="col-4">
+              <div class="pd-10">
+                <img width="190" height="130"
+                     src="http://image.vautoshow.com/special/788b78e4-efe7-4981-b12a-cc8006a80a9a.jpg"/>
+              </div>
+            </div>
+            <div class="col-4">
+              <div class="pd-10">
+                <img width="190" height="130"
+                     src="http://image.vautoshow.com/special/75b840fd-92be-40b2-af93-a2c466ebe5a2.jpg"/>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-5">
+          <img class="lazyload" width="470"
+               src="http://image.vautoshow.com/special/dd209905-db5a-4ce3-85fc-b63eb6166a1f.gif"/>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+</div>
+
+
+<div class="row cl text-c" style="background-color: #ffce15; padding-top:40px; padding-bottom: 40px">
+  <h1 class="c-black"><b>车展，花一天时间看遍几百款车</b></h1>
+</div>
+<div class="container cl mt-40 mb-40" style="overflow: hidden">
+  <div class="row cl" style="width: 1185px; ">
+    <div class="col-3">
+      <div class="badge-white mr-20 ">
+        <div class="f-16 text-c pd-10"><b>体验更真切</b></div>
+        <div><img height="150" src="http://image.vautoshow.com/special/89945cce-4b1b-4aee-a655-2fc1bfb7b907.jpg" width="100%">
+        </div>
+        <div class="pd-15 f-14 c-666">
+          几乎每位准车主都有过同样的经历。在网上翻来覆去看了对比很长一段时间，可还是不知道实车是怎么样。车展恰是一个最好的体验平台。
+        </div>
+      </div>
+    </div>
+    <div class="col-3">
+      <div class="badge-white mr-15">
+        <div class="f-16 text-c pd-10"><b>看车更轻松</b></div>
+        <div><img src="http://image.vautoshow.com/special/2eee8546-d371-4790-a546-b83a1f8e7802.jpg" height="150" width="100%"/>
+        </div>
+        <div class="pd-15 f-14 c-666">
+          你可能有多款意向车型，平时看车需在各4S店多趟来回走，劳累且浪费时间。车展现 场品牌多、车型全；您可以轻松看遍所有车。
+        </div>
+      </div>
+    </div>
+    <div class="col-3">
+      <div class="badge-white mr-15">
+        <div class="f-16 text-c pd-10"><b>选择更多样</b></div>
+        <div><img src="http://image.vautoshow.com/special/b45e64ec-fd69-497c-a0da-5dede1bcb039.jpg" height="150" width="100%"/>
+        </div>
+        <div class="pd-15 f-14 c-666">
+          俗话说"货比三家不吃亏"，车展汇集了许多同价位，同级别的不同品牌车型。您不妨可以静下心来一一对比,买到自己满意的车才最重要。
+        </div>
+      </div>
+    </div>
+    <div class="col-3">
+      <div class="badge-white mr-15">
+        <div class="f-16 text-c pd-10"><b>价格更透明</b></div>
+        <div><img src="http://image.vautoshow.com/special/c3ede7a1-8d30-4598-9e0c-36170b4d4324.jpg"
+                  width="100%" height="150"/></div>
+        <div class="pd-15 f-14 c-666">
+          您可能想获得最真实的报价，网上最低价太虚了，4S店从不在电话里报底价，去到店里报价是行情价，而车展现场有明码标价的优惠信息。
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--参展品牌-->
+<div class="row cl text-c" id="czpp" style="background-color: #144a9d; padding-top:40px; padding-bottom: 40px">
+  <h1 class="c-white"><b>50余个汽车品牌，涵盖自主、合资、进口</b></h1>
+</div>
+<div class="container cl text-c">
+  <div class="row cl f-12 mt-40 mb-40">
+    
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://x.autoimg.cn/app/image/brands/70.png" width="60" style="cursor: pointer">
+        <div id="undefined">沃尔沃</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/e038a422-d796-42c7-876a-cab5585627ac.png" width="60" style="cursor: pointer">
+        <div id="undefined">郑州日产</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/00f0a45a-b100-4e58-a508-5f6bd166d78c.png" width="60" style="cursor: pointer">
+        <div id="undefined">长安汽车</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/ee6fbbe9-80d0-4f0e-9cef-779fdb37e7d6.png" width="60" style="cursor: pointer">
+        <div id="undefined">宝马</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/a5d30ddf-7d3c-44bd-a956-143789468f65.png" width="60" style="cursor: pointer">
+        <div id="undefined">中国一汽</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/3e85852c-81fb-45d8-8b28-699db3116854.png" width="60" style="cursor: pointer">
+        <div id="undefined">东风小康</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/333a5672-a861-451c-b66e-223bc49aee53.png" width="60" style="cursor: pointer">
+        <div id="undefined">MINI</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/dcae7c0c-8488-4002-8409-f332a3b7fbfb.png" width="60" style="cursor: pointer">
+        <div id="undefined">北汽威旺</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/5f00e8b9-fd18-46fa-954e-564c4250423f.png" width="60" style="cursor: pointer">
+        <div id="undefined">比亚迪</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/c7335a6f-2643-452b-ab7f-c15759f41243.png" width="60" style="cursor: pointer">
+        <div id="undefined">北汽绅宝</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/f8efafa2-cf6b-47a8-b499-e61ab019a00c.png" width="60" style="cursor: pointer">
+        <div id="undefined">东风风神</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/d6914bb0-24c1-469c-b099-e4c92bd16d1c.png" width="60" style="cursor: pointer">
+        <div id="undefined">别克(进口)</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/2be61fff-ae7e-49ba-8ecb-7ff5e3d47e61.png" width="60" style="cursor: pointer">
+        <div id="undefined">上汽通用雪佛兰</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/4cd161a5-c796-4c58-aebe-dfdb98e79e6d.png" width="60" style="cursor: pointer">
+        <div id="undefined">smart</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/fa2737a0-1ed8-4df1-82f8-bcd63f0ce7e2.png" width="60" style="cursor: pointer">
+        <div id="undefined">东风风行</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/29f1e31c-dd23-481d-86f7-1107eccab81e.png" width="60" style="cursor: pointer">
+        <div id="undefined">东风雪铁龙</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/8eba18c1-342d-4e43-aeb4-d8457b8b505b.png" width="60" style="cursor: pointer">
+        <div id="undefined">华晨中华</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/99e152fb-2054-4806-8f22-5bda67b09e1a.png" width="60" style="cursor: pointer">
+        <div id="undefined">吉利汽车</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/5558879e-09b7-4fae-8368-12f29429eb10.png" width="60" style="cursor: pointer">
+        <div id="undefined">大众(进口)</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/1b9401d3-7080-4245-87e6-cf67a747d42e.png" width="60" style="cursor: pointer">
+        <div id="undefined">天津一汽</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/d18ca9b3-615f-438b-8d02-bf7b3dcc7750.png" width="60" style="cursor: pointer">
+        <div id="undefined">奥迪(进口)</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/ca5ffd5f-def0-450a-80d5-dfdbea684bb8.png" width="60" style="cursor: pointer">
+        <div id="undefined">宝沃汽车</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/3a0d0158-de62-489a-8487-5a169873b559.png" width="60" style="cursor: pointer">
+        <div id="undefined">广汽三菱</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/c30f9181-e668-4049-8533-6bb449f4d133.png" width="60" style="cursor: pointer">
+        <div id="undefined">广汽本田</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/abeca97f-c7ea-4355-ab1d-70f949eda94b.png" width="60" style="cursor: pointer">
+        <div id="undefined">斯巴鲁</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/032fdbfb-1f84-49aa-aa71-dce93e473321.png" width="60" style="cursor: pointer">
+        <div id="undefined">汉腾</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/16cf7d64-4b20-4d89-9d39-b1f0acc7e6f7.png" width="60" style="cursor: pointer">
+        <div id="undefined">菲亚特(进口)</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/c00a9141-c6f1-482c-818e-ec752901770d.png" width="60" style="cursor: pointer">
+        <div id="undefined">讴歌(进口)</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/a7de6d75-2827-4352-8162-c6e4979bf357.png" width="60" style="cursor: pointer">
+        <div id="undefined">纳智捷</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/457f8b1f-af11-4015-afd5-eba9d96ddfa9.png" width="60" style="cursor: pointer">
+        <div id="undefined">起亚(进口)</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/22f00da2-6f53-47d3-8e2f-a81309acf4d7.png" width="60" style="cursor: pointer">
+        <div id="undefined">长安福特</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/093493fb-be96-419d-b6fc-763ff47df09a.png" width="60" style="cursor: pointer">
+        <div id="undefined">长安马自达</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/c6fc6f67-2904-448f-9436-36e5826dd891.png" width="60" style="cursor: pointer">
+        <div id="undefined">长安铃木</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/abe2380e-9b94-4159-8fb8-dcd56ca273f1.png" width="60" style="cursor: pointer">
+        <div id="undefined">东风标致</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/a2a10857-022c-4afd-9e20-d0ede1d537ca.png" width="60" style="cursor: pointer">
+        <div id="undefined">上海大众</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/ac819846-08a3-4ce2-ab71-9eea23f68601.png" width="60" style="cursor: pointer">
+        <div id="undefined">北汽幻速</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/03011258-50e8-48c1-b52d-987e8cf174ea.png" width="60" style="cursor: pointer">
+        <div id="undefined">北京现代</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/9e6e7151-0ccb-4638-8202-ecc03f569f4b.png" width="60" style="cursor: pointer">
+        <div id="undefined">东风雷诺</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/4311c22c-ab87-4bad-92bc-aeae327840ff.png" width="60" style="cursor: pointer">
+        <div id="undefined">雷克萨斯</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/73a5d399-5c76-4076-a811-10343a3fcd3a.png" width="60" style="cursor: pointer">
+        <div id="undefined">广汽传祺</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/41c57551-3c00-4462-b510-5c357638d3ba.png" width="60" style="cursor: pointer">
+        <div id="undefined">哈弗</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/b2ba20f3-b3c3-4681-8a05-69996d0ebdd4.png" width="60" style="cursor: pointer">
+        <div id="undefined">北京奔驰</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/bd68b120-5824-4645-9be8-14fb421e1a11.png" width="60" style="cursor: pointer">
+        <div id="undefined">北京吉普</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/fee7d7c4-85a5-4a64-b5ef-ffe13cc1ab0b.png" width="60" style="cursor: pointer">
+        <div id="undefined">东风英菲尼迪</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/69cf0afd-4ac0-43b7-817c-6febf3a9a5e5.png" width="60" style="cursor: pointer">
+        <div id="undefined">东风本田</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/93094f94-2977-4cf4-9b99-95e6b9b96fa4.png" width="60" style="cursor: pointer">
+        <div id="undefined">东风悦达起亚</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/2ea20509-5c3b-48b3-aa12-39fc9151a695.png" width="60" style="cursor: pointer">
+        <div id="undefined">东风日产</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://x.autoimg.cn/app/image/brands/114.png" width="60" style="cursor: pointer">
+        <div id="undefined">上汽通用五菱</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/ae58115b-82b1-49ae-a519-0dd51af80806.png" width="60" style="cursor: pointer">
+        <div id="undefined">上汽通用凯迪拉克</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/2c314a9e-6a65-4e41-ba01-fc6f42bdefb7.png" width="60" style="cursor: pointer">
+        <div id="undefined">上汽大众斯柯达</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/ac5af4ff-e564-495f-8b52-4995c9882bc1.png" width="60" style="cursor: pointer">
+        <div id="undefined">一汽马自达</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/86aa8583-114b-4a14-b583-55cd6016d2a5.png" width="60" style="cursor: pointer">
+        <div id="undefined">一汽丰田</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/50467340-706f-413d-acc3-b0623c04b104.png" width="60" style="cursor: pointer">
+        <div id="undefined">一汽-大众奥迪</div>
+      </div>
+    </div>
+    
+    <div class="col-9-1 text-c">
+      <div class="badge-white pb-10 pt-10 brandFa" data-toggle="modal" data-target="#bmt" style="margin: 2px; border: 1px #eee solid">
+       <img class="lazyload"  data-src="http://image.vautoshow.com/series/0ff1d1bf-f57a-4bdf-9bf5-b987eb4f7791.png" width="60" style="cursor: pointer">
+        <div id="undefined">一汽-大众</div>
+      </div>
+    </div>
+    
+    
+    <!--点击触发报名购买该车型的框框-->
+    <div class="modal fade" id="bmt">
+      <div class="modal-dialog modal-lg" style="width: 600px;margin: 130px auto">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">我想买<b id="clickCar"></b>（立刻报名）</h4>
+          </div>
+          <div class="modal-body">
+            <div style="padding:15px; clear: both; overflow: auto">
+              <form id="formt" class="bmformt">
+                <div class="row cl pb-10">
+                  <div class="col-6">
+                    <div class="pr-10">
+                      <span class="f-12">领票人姓名:</span>
+                      <input type="text" class="input-text size-L radius" id="userName">
+                    </div>
+                  </div>
+                  <div class="col-6"><div class="pr-10">
+                      <span class="f-12">领票人电话:</span>
+                      <input type="text" maxlength="11" class="input-text size-L radius" id="phone">
+                    </div></div>
+                  <div id="thiscar" style="display: none" ></div>
+                </div>
+                <div class="row cl pb-10"><div class="pr-10"> <span class="f-12">门票快递收件地址:</span>
+                    <textarea class="textarea radius" id="address" style="height: 55px"></textarea>
+                  </div></div>
+                <div class="row cl">
+                  <div class="getError" id="getError"></div>
+                  <div class="pr-10 pt-10 pb-10">
+                    <input class="btn btn-primary btn-block size-L radius bmform" type="button" value="立即免费报名" id="post_baoming">
+                    <input type="reset" name="res" style="display:none;" />
+                  </div>
+                </div>
+              </form>
+              <div id="successt" style="display: none">
+                <h4><span>报名成功</span> 请微信扫描下方二维码<br>通过微信查询车展进展及优惠信息</h4>
+                <img class="lazyload" data-src="http://image.vautoshow.com/special/6f8e19fe-13bc-49fe-929e-5753cc22b5fe.gif"
+                     width="130px">
+              </div>
+              <div id="errort"></div>
+            </div>
+          </div>
+            <div class="modal-footer">
+            <button type="button" class="btn btn-default" id="esubmit">关闭</button>
+            </div>
+        </div>
+      </div>
+    </div>
+    <!--end-->
+  </div>
+</div>
+
+<!--参展流程-->
+<div class="row cl text-c" style="background-color: #68007b; padding-top:40px; padding-bottom: 40px">
+  <h1 class="c-white"><b>观众参展流程</b></h1>
+</div>
+<div class="container cl text-c mt-40 mb-40">
+  <div class="container" style="overflow: hidden">
+    <div class="row cl pos-r" style="width: 1177px">
+      <div class="col-4">
+        <div class="badge-white mr-5 mb-5 radius">
+          <div class="pd-20 f-14">
+            <h4><i class="Hui-iconfont f-28">&#xe6b4</i> <b>报名领票</b></h4>
+            <span class="c-999">您在官网选取您的汽车品牌与意向车型并填写你的联系方式报名索取车展门票后，我们会有专业客服联系您，确认送票地址。</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+
+        <div class="badge-white mr-5 mb-5 radius">
+          <div class="pd-20 f-14">
+              <h4><i class="Hui-iconfont f-28">&#xe692;</i>
+                <b>接收门票</b></h4>
+            <span class="c-999">客服人员通过电话核实您的地址与信息后， 会通过快递的方式把门票与代金券寄送到您手上。</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+
+        <div class="badge-white mr-5 mb-5 radius">
+          <div class="pd-20 f-14">
+            <h4><i class="Hui-iconfont f-28">&#xe6a9;</i> <b>凭票入场</b></h4>
+            <span class="c-999">车展活动当天，带上您的门票与代金券到场现场，即可检票入场。网友门票均为免费赠送限量门票，现场需购票（小孩免票）入场，请您记得携带好门票。</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="badge-white mr-5 mb-5 radius">
+          <div class="pd-20 f-14">
+            <h4><i class="Hui-iconfont f-28">&#xe6b9;</i> <b>现场选车</b></h4>
+            <span class="c-999">车展现场涵盖进口、合资、自主等汽车品牌，车展现场您看中即可订车。部分品牌出示我们千元代金券即可抵扣购车款</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="badge-white mr-5 mb-5 radius">
+          <div class="pd-20">
+            <h4><i class="Hui-iconfont f-28">&#xe6bb;</i><b>参与抽奖</b></h4>
+            <span class="c-999">如果您现场订车购车，即可凭购车合同或者收据，前往车展服务台参与抽奖活动，车展组委会准备了丰富的精美礼品，100%中奖，赢取车展订车大礼包。</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="badge-white mr-5 mb-5 radius">
+          <div class="pd-20">
+            <h4><i class="Hui-iconfont f-28">&#xe697;</i> <b>提车上路</b></h4>
+            <span class="c-999">车展现场可以提车，您在车展现场支付定金也可以在参展商店内提车，所享有同等标准售后服务，轻松提车，方便快捷，省去东奔西走花时费神的后续手续办理。</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!--展会动态-->
+<div class="row cl c-white text-c" id="czpl" style="background-color: #ed2455; padding-top:40px; padding-bottom: 40px">
+  <h1><b>车展活动与资讯</b></h1>
+
+
+</div>
+
+<div class="container cl">
+  <div class="row cl mb-30 mt-30">
+    <div class="col-7">
+      <div class="mb-10"><h2 class="c-333 f-20"><i class="Hui-iconfont f-24">&#xe697;</i> <b>展会活动</b></h2></div>
+
+      <div class="badge-white mr-30" style="height: 731px; overflow: hidden">
+        <p style="text-align:center"><img src="http://image.vautoshow.com/document/image/19620d4b-1443-4eb0-9803-855bffbf3338.jpg" title="" alt="15.jpg"/></p>
+      </div>
+    </div>
+    <div class="col-5">
+      <div class="mb-10"><h2 class="c-333 f-20"><i class="Hui-iconfont f-24">&#xe6c6;</i> <b>展会资讯</b></h2></div>
+      <div class="badge-white pd-20" style="height: 150px; overflow: hidden">
+        <ul class="f-14 lh-30">
+          
+          <li><a target="_blank" href="http://cs.vautoshow.com/content/detail/592284f61cf8e5363bc9cd7d">湖南国际会展中心采购车展现场选车购车攻略手册</a></li>
+          
+          
+          <li><a target="_blank" href="http://cs.vautoshow.com/content/detail/5923fac5c731c70e001efffd">湖南采购车展现场购车与谈判技巧</a></li>
+          
+          
+
+          <li><a target="_blank" href="http://cs.vautoshow.com/content/detail/5923feb74b6a1c0e0045aed3">湖南采购车展购车与到店购车优势分析</a></li>
+          
+          
+          <li><a target="_blank" href="http://cs.vautoshow.com/content/detail/5923ffdc4b6a1c0e0045aed7">车展怎样识别汽车规格符号和参数</a></li>
+          
+          
+          <li><a target="_blank" href="http://cs.vautoshow.com/content/detail/592401524b6a1c0e0045aedb">车展资深汽车销售员教您买车三招</a></li>
+          
+        </ul>
+      </div>
+      <div class="pt-20 pb-10"><h2 class="c-333 f-20"><i class="Hui-iconfont f-24">&#xe633;</i> <b>常见问题解答</b></h2></div>
+      <div class="row cl badge-white pt-15 pl-20 pr-20 pb-20" style="height:485px; overflow: hidden">
+        <ul>
+          <li class="pt-10 pb-10" style="border-bottom: 1px dotted #ddd">
+            <div class="f-14 c-danger"><i class="Hui-iconfont">&#xe622;</i> 车展上购车价格会比4S店里优惠吗？</div>
+            <div class="c-666 f-12">
+              车展上购车价格要优惠一些，因为参加车展的厂家必须针对车展给出价格优惠政策，以及享有保养服务送装饰之类的优惠活动，价格优惠政策仅限车展期间，展后恢复原价。
+            </div>
+          </li>
+          <li class="pt-10 pb-10" style="border-bottom: 1px dotted #ddd">
+            <div class="f-14 c-danger"><i class="Hui-iconfont">&#xe622;</i> 车展购车与在4S店里买车享有的售后服务一样吗？</div>
+            <div class="c-666 f-12">
+              毫无区别，所有来参展的厂家均是正规4s店，只是借助车展平台销售车辆，所享受的售后服务是4S店全方位提供的售后服务。
+            </div>
+          </li>
+          <li class="pt-10 pb-10" style="border-bottom: 1px dotted #ddd">
+            <div class="f-14 c-danger"><i class="Hui-iconfont">&#xe622;</i> 车展上购车可以提现车吗？</div>
+            <div class="c-666 f-12">
+              车展上购车当然可以提现车啦，如果展车在现场，您可以直接开走，如果你要买的车厂家没有现车，您还需要按照正规订车流程等待些许时日，具体现车有无情况，还得您亲自到达现场确定才行。
+            </div>
+          </li>
+          <li class="pt-10 pb-10" style="border-bottom: 1px dotted #ddd">
+            <div class="f-14 c-danger"><i class="Hui-iconfont">&#xe622;</i> 在车展上买车需要付全款吗？</div>
+            <div class="c-666 f-12">
+              在车展上买车可以付全款也可以只付定金，这个看您本身意愿，您付了定金，预定了车展优惠价格，后期补齐全款或者办理贷款都可以，唯一区别是您预定的是车展优惠价格而不是原价哦。
+            </div>
+          </li>
+          <li class="pt-10 pb-10" style="border-bottom: 1px dotted #ddd">
+            <div class="f-14 c-danger"><i class="Hui-iconfont">&#xe622;</i> 在车展上买车买税上牌等一些列后续手续怎么办？</div>
+            <div class="c-666 f-12">
+              您在车展上买了车，4s店在您买车之后会为您提供买税上牌一站式服务，省去您的烦恼。
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!--交通指引-->
+<div class="row cl text-c" id="jtzy" style="background-color: #00a77a; padding-top:40px; padding-bottom: 40px">
+  <h1 class="c-white"><b>参展交通指南</b></h1>
+</div>
+<div class="container cl badge-white mt-40 mb-40">
+  <div class="pd-20">
+    <div class="row cl">
+      <div class="col-7 f-14">
+        <div class="pd-15 traffictxt">
+          <p><span style="font-size: 18px;"><strong><span style="color: rgb(192, 80, 77);">湖南国际会展中心交通指南</span></strong></span><br/><span style="font-size: 14px; color: rgb(192, 80, 77);">乘坐公交：</span><span style="font-size: 14px;"><br/>公交站名：世界之窗站、海底世界站&nbsp;&nbsp;&nbsp;<br/><span style="font-size: 14px; color: rgb(0, 0, 0);">途经公交车：</span><br/>701路;&nbsp; 136路; 158路; 915路; 216路；158路; 802路 806路线77路、B7路等。<span style="font-size: 14px; color: rgb(192, 80, 77);"><br/>自行驾车：</span><br/>您可以导航至湖南国际会展中心<br/>也可导航至世界之窗或海底世界<br/><span style="font-size: 14px; color: rgb(192, 80, 77);">乘坐地铁：</span><br/>您也可以乘坐地铁1号线在“开福寺”站下地铁<br/>乘坐501路公交车在“世界之窗”下车抵达现场</span></p>
+        </div>
+
+        <div class="cl mr-30">
+          <div class="row cl">
+            <div class="col-4">
+              <div class="pl-15">
+                <img
+                  src="http://image.vautoshow.com/special/08235fa3-a286-4bca-ac5e-582c60db03cf.jpg"
+                  width="194" height="146"/>
+              </div>
+            </div>
+            <div class="col-4">
+              <div class="pl-15">
+                <img
+                  src="http://image.vautoshow.com/special/9592a6db-da7f-481a-a00a-a57676b1bc39.jpg"
+                  width="194" height="146"/>
+              </div>
+            </div>
+            <div class="col-4">
+              <div class="pl-15">
+                <img
+                  src="http://image.vautoshow.com/special/be840165-2963-4e9e-8e9d-de89d5b497ec.jpg"
+                  width="194" height="146"/>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-5">
+        <div class="row cl pt-20 pb-15">
+          <h3 class="c-danger"><b>湖南国际会展中心</b></h3>
+          <div class="f-14 c-666">详细地址：长沙市开福区三一大道（湖南广电旁）靠近世界之窗</div>
+        </div>
+        <div class="ditu" id="dr_map_84"
+             data-lat="28.240642"
+             data-lng="113.055996"
+             style="height:333px; width: 100%; overflow: hidden;  ">
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!--联系方式-->
+<div class="container cl badge-black c-white mb-40 radius">
+  <div class="row cl mt-25 mb-30">
+    <div class="col-4">
+      <div class="ml-30">
+        <div class="f-18"><i class="Hui-iconfont f-24 c-primary">&#xe6d0;</i> 观众咨询热线</div>
+        <div>
+          7X24小时客户服务热线
+          400-6655-222
+        </div>
+      </div>
+    </div>
+    <div class="col-4">
+      <div class="ml-30">
+        <div class="f-18"><i class="Hui-iconfont f-24 c-primary">&#xe607;</i> 展会合作咨询</div>
+        <div>
+          展会赞助、商务合作
+          13873147597（胡小姐）
+        </div>
+      </div>
+    </div>
+    <div class="col-4">
+      <div class="ml-30">
+        <div class="f-18"><i class="Hui-iconfont f-24 c-primary">&#xe611;</i> 联系招商部</div>
+        <div>
+          品牌进驻展会、区域合作
+          13007425838（龚女士）
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="http://api.map.baidu.com/api?v=2.0&ak=QsdnHmlhXGCGLziDUVvMcKr3epkz1mrL"></script>
+<script src="/themes/vautoMainStation/js/allAutoshowDetail-ee8a64a5dd.js"></script>
+<script src="/themes/vautoMainStation/js/special-4fc0f81a9a.js"></script>
+
+
+<div class="foot">
+  <div class="container">
+    <div class="row">
+      <div class="col-3-1">
+        <div class="pl-10 f-l mt-15">
+          <img class="lazyload" data-src="http://static.vautoshow.com/vauto/images/logo-bvf.png" width="200">
+        </div>
+        <div class="f-l pl-20 ml-10 mt-20">
+          <img class="lazyload" data-src="https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQE68DoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL2JFUk1xdERrZ2pQNzBnT2M0V2dvAAIEa4wpVwMEAAAAAA==" width="110">
+        </div>
+      </div>
+      <div class="col-3-2">
+        <div class="bline ml-15">
+          <a href="http://www.vautoshow.com/page/about_company" target="_blank">关于公司</a>
+          <a href="http://www.vautoshow.com/page/about_contact" target="_blank">联系我们</a>
+          <a href="http://www.vautoshow.com/page/about_join" target="_blank">加入我们</a>
+          <a href="http://www.vautoshow.com/page/about_tell" target="_blank">隐私声明</a>
+          <!--<a href="http://www.vautoshow.com/page/site_map" target="_blank">网站地图</a>-->
+          <!--<a href="http://www.vautoshow.com/page/about_company" target="_blank">友情链接</a>-->
+
+        </div>
+        <div class="bline f-14 ml-15">
+          <span class="pr-20">全国统一客服：400 6655 222</span>
+          <span class="pr-20">服务时间：每天8:00～20:00</span> 投诉建议：jianyi@vautoshow.com
+
+        </div>
+        <div class="bline ml-15">
+          <span class="pr-20">© 2012-2017</span><span class="pr-20">VAUTOSHOW.COM. All rights reserved.</span><span class="pr-20">总部公司：北京百城微车科技有限公司</span>备案号：京ICP备16004730号-1
+          <!--统计代码-->
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModal" aria-hidden="true">
+    <div class="modal-dialog citybox">
+      <div class="modal-content radius">
+        <div class="modal-header">
+          <h3 class="modal-title">选择城市</h3>
+          <a class="close" data-dismiss="modal" aria-hidden="true">×</a>
+        </div><div class="modal-body">
+      <ul>
+        
+        <li><a href="http://nn.vautoshow.com/">南宁</a></li>
+        
+        <li><a href="http://cs.vautoshow.com/">长沙</a></li>
+        
+        <li><a href="http://dg.vautoshow.com/">东莞</a></li>
+        
+        <li><a href="http://bj.vautoshow.com/">北京</a></li>
+        
+        <li><a href="http://fs.vautoshow.com/">佛山</a></li>
+        
+        <li><a href="http://gz.vautoshow.com/">广州</a></li>
+        
+        <li><a href="http://hz.vautoshow.com/">杭州</a></li>
+        
+        <li><a href="http://km.vautoshow.com/">昆明</a></li>
+        
+        <li><a href="http://su.vautoshow.com/">苏州</a></li>
+        
+        <li><a href="http://cq.vautoshow.com/">重庆</a></li>
+        
+        <li><a href="http://xa.vautoshow.com/">西安</a></li>
+        
+        <li><a href="http://gy.vautoshow.com/">贵阳</a></li>
+        
+        <li><a href="http://sh.vautoshow.com/">上海</a></li>
+        
+      </ul>
+        </div></div>
+    </div>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,115 @@
+
+
+
+/*.lt-round,.lt-mask{
+    position:absolute;
+    width:35px;
+    height:70px;
+    border-radius:35px  0 0 35px;
+    transform-origin:right center;
+     animation: ltRound 1s linear infinite ;
+}
+.rt-round,.rt-mask{
+    position:absolute;
+    left:50%;
+    width:35px;
+    height: 70px;
+    border-radius:0 35px 35px 0;
+     animation: rtRound 1s linear infinite ;
+}
+!*左边红色完成第一圈的旋转*!
+@keyframes ltRound {
+    0% {
+        transform: rotate(360deg);
+    }
+    24.9% {
+        z-index: 3;
+    }
+    25% {
+        z-index: 1;
+        transform: rotate(180deg);
+    }
+    50% {
+        transform: rotate(0deg);
+    }
+    74.9% {
+        z-index: 1;
+    }
+    75%, 100% {
+        z-index: 3;
+    }
+}
+
+!*右边红色圆通过z-index来控制显示和隐藏，从而达到在适当时间配上左半圆的效果*!
+@keyframes rtRound {
+    0%, 24.9% {
+        z-index: 1;
+    }
+    25% {
+        z-index: -3;
+    }
+    74.9% {
+        z-index: -3;
+    }
+    75%, 100% {
+        z-index: 1;
+    }
+}
+
+!*左边粉色完成第二圈的旋转*!
+@keyframes ltMask {
+    0%, 25%, 50% {
+        transform: rotate(360deg);
+    }
+    75% {
+        transform: rotate(180deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
+}*/
+
+.wrap { width: 64px; height: 64px; position: relative; }
+.outer {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  /*  margin: 150px auto;*/
+    border: 3px solid #ff298c;
+    border-left: 3px solid transparent;
+    animation: outRound 1s linear infinite ;
+}
+@keyframes outRound {
+    0%{
+        transform:rotate(120deg)
+    }
+    100%{
+        transform:rotate(-240deg)
+    }
+}
+
+.inner,.inner2{ position: absolute; width: 38px; height: 38px; border-radius: 40px; overflow: hidden; left: 9px; top: 9px; }
+.inner { opacity: 1; background-color: #89abdd; animation: second-half-hide 1.6s steps(1, end) infinite; }
+.inner2 { opacity: 0; background-color: #4b86db; animation: second-half-show 1.6s steps(1, end) infinite; }
+.spiner, .filler, .masker { position: absolute; width: 50%; height: 100%; }
+.spiner { border-radius: 40px 0 0 40px; background-color: #4b86db; transform-origin: right center; animation: spin 800ms infinite linear; left: 0; top: 0; }
+.filler { border-radius: 0 40px 40px 0; background-color: #4b86db; animation: second-half-hide 800ms steps(1, end) infinite; left: 50%; top: 0; opacity: 1; }
+.masker { border-radius: 40px 0 0 40px; background-color: #89abdd; animation: second-half-show 800ms steps(1, end) infinite; left: 0; top: 0; opacity: 0; }
+
+.inner2 .spiner, .inner2 .filler { background-color: #89abdd; }
+.inner2 .masker { background-color: #4b86db; }
+
+@keyframes spin {
+    0%   { transform: rotate(360deg); }
+    100% { transform: rotate(0deg); }
+}
+@keyframes second-half-hide {
+    0%        { opacity: 1; }
+    50%, 100% { opacity: 0; }
+}
+@keyframes second-half-show {
+    0%        { opacity: 0; }
+    50%, 100% { opacity: 1; }
+}
+
